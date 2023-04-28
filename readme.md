@@ -2,7 +2,8 @@
 
 Develop a modern, sleek one-page portfolio website using HTML and CSS in this ASMR Programming tutorial.
 
-[Watch the video here](https://youtu.be/Z9d-XjU-xFA?sub_confirmation=1)
+[Watch the video here:](https://youtu.be/Z9d-XjU-xFA?sub_confirmation=1)
+[![YouTube](./thumbnail.jpg)](https://youtu.be/Z9d-XjU-xFA?sub_confirmation=1)
 
 ## Resources
 
